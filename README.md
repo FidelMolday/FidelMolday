@@ -1,6 +1,8 @@
  Hello, It's Fido - your friendly software developer.
 # 💫 About Me:
 Software Engineer | Problem Solver | Tech Enthusiast
+
+
 🔭 I’m currently working on PYTHON and Javascript & PHP<br>👯 I’m looking to collaborate on AI&ML projects<br>🤝 I’m looking for help in Data Science<br>🌱 I’m currently learning Generative AI - always hungry to learn<br>💬 Ask me about Web and System Dev <br>⚡ Fun fact : I write code that sometimes works on the first try...by accident
 
 
